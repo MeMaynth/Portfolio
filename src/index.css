@@ -1,0 +1,13 @@
+.progress {
+  height: 25px;
+  border-radius: 8px;
+}
+
+.progress-bar {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+h2 {
+  font-weight: 700;
+}

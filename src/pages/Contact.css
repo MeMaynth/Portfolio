@@ -1,0 +1,18 @@
+.contact-info p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.map-container {
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+button.btn-primary {
+  transition: background-color 0.3s ease;
+}
+
+button.btn-primary:hover {
+  background-color: #357ab7; /* légèrement plus clair */
+}
